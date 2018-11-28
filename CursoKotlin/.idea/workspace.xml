@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CursoKotlin:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2c3b418-9edd-4334-8fe0-b640dce9ae5b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>super</find>
+      <find>s)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/fundamentos/TesteImport.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lambdas/Lambda2.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/SortedBy.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/Filter.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/Map1.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/Map2.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/TakeIf.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/Apply.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/Let.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/Run.kt" />
+        <option value="$PROJECT_DIR$/src/collections/Arrays.kt" />
+        <option value="$PROJECT_DIR$/src/collections/ArrayListStrings.kt" />
+        <option value="$PROJECT_DIR$/src/collections/ArrayListInt.kt" />
+        <option value="$PROJECT_DIR$/src/collections/ArrayListMix.kt" />
+        <option value="$PROJECT_DIR$/src/collections/ArrayListUniao.kt" />
+        <option value="$PROJECT_DIR$/src/collections/ArrayListObjetos.kt" />
+        <option value="$PROJECT_DIR$/src/collections/ExemploFor1.kt" />
+        <option value="$PROJECT_DIR$/src/oo/encapsulamento/Teste.kt" />
+        <option value="$PROJECT_DIR$/src/oo/encapsulamento/casaA/MariaSilva.kt" />
+        <option value="$PROJECT_DIR$/src/oo/encapsulamento/casaB/JoseSantos.kt" />
+        <option value="$PROJECT_DIR$/src/oo/encapsulamento/casaB/AnaSilvaSantos.kt" />
+        <option value="$PROJECT_DIR$/src/oo/encapsulamento/casaA/JoaoSilva.kt" />
+        <option value="$PROJECT_DIR$/src/oo/Esportivo.kt" />
+        <option value="$PROJECT_DIR$/src/oo/Ferrari.kt" />
+        <option value="$PROJECT_DIR$/src/oo/Teste.kt" />
+        <option value="$PROJECT_DIR$/src/oo/Carro.kt" />
+        <option value="$PROJECT_DIR$/src/oo/Comida.kt" />
+        <option value="$PROJECT_DIR$/src/oo/a/Abc.kt" />
+        <option value="$PROJECT_DIR$/src/oo/Teste2.kt" />
+        <option value="$PROJECT_DIR$/src/oo/Teste1.kt" />
+        <option value="$PROJECT_DIR$/src/collections/ExemploFor2.kt" />
+        <option value="$PROJECT_DIR$/src/aaa/pacote/Encapsulamento.kt" />
+        <option value="$PROJECT_DIR$/src/collections/Matriz.kt" />
+        <option value="$PROJECT_DIR$/src/collections/ConjuntoBaguncado.kt" />
+        <option value="$PROJECT_DIR$/src/collections/ConjuntoComportado.kt" />
+        <option value="$PROJECT_DIR$/src/collections/Map1.kt" />
+        <option value="$PROJECT_DIR$/src/collections/Map2.kt" />
+        <option value="$PROJECT_DIR$/src/collections/HashcodeEquals.kt" />
+        <option value="$PROJECT_DIR$/src/oo/encapsulamento/Encapsulamento.kt" />
+        <option value="$PROJECT_DIR$/src/oo/heranca/Carro.kt" />
+        <option value="$PROJECT_DIR$/src/oo/heranca/Esportivo.kt" />
+        <option value="$PROJECT_DIR$/src/oo/heranca/Ferrari.kt" />
+        <option value="$PROJECT_DIR$/src/oo/heranca/Teste.kt" />
+        <option value="$PROJECT_DIR$/src/oo/heranca/Heranca2.kt" />
+        <option value="$PROJECT_DIR$/src/oo/polimorfismo/SemPolimorfismo.kt" />
+        <option value="$PROJECT_DIR$/src/oo/polimorfismo/ComPolimorfismo.kt" />
+        <option value="$PROJECT_DIR$/src/avancado/Recursao.kt" />
+        <option value="$PROJECT_DIR$/src/avancado/Genericos.kt" />
+        <option value="$PROJECT_DIR$/src/avancado/SobrecargaDeOperadores.kt" />
+        <option value="$PROJECT_DIR$/src/avancado/AnotacaoComReflexao.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentos/TiposBasicos.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentos/TemplateString2.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="2048" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective access issuesJava</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CursoKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CursoKotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.fundamentos.TesteImportKt">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="avancado.AnotacaoComReflexaoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="avancado.AnotacaoComReflexaoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fundamentos.ConstKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.ConstKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fundamentos.TemplateString2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.TemplateString2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fundamentos.TesteImportKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.TesteImportKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fundamentos.TiposBasicosKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.TiposBasicosKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.avancado.AnotacaoComReflexaoKt" />
+      <item itemvalue="Kotlin.fundamentos.ConstKt" />
+      <item itemvalue="Kotlin.fundamentos.TemplateString2Kt" />
+      <item itemvalue="Kotlin.fundamentos.TesteImportKt" />
+      <item itemvalue="Kotlin.fundamentos.TiposBasicosKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.fundamentos.TesteImportKt" />
+        <item itemvalue="Kotlin.fundamentos.TemplateString2Kt" />
+        <item itemvalue="Kotlin.fundamentos.TiposBasicosKt" />
+        <item itemvalue="Kotlin.fundamentos.ConstKt" />
+        <item itemvalue="Kotlin.avancado.AnotacaoComReflexaoKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2c3b418-9edd-4334-8fe0-b640dce9ae5b" name="Default" comment="" />
+      <created>1502846058390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502846058390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.2912254" />
+      <window_info id="Structure" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.498006" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50680786" side_tool="true" weight="0.34369886" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32914045" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49319214" weight="0.34369886" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32809225" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/oo/Teste.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/Ferrari.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/Carro.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/Esportivo.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/Comida.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/Teste2.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/Teste1.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/a/Abc.kt" />
+    <entry file="file://$PROJECT_DIR$/src/aaa/TesteEncapsulamento.kt" />
+    <entry file="file://$PROJECT_DIR$/src/aaa/pacote/Encapsulamento.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/ExemploFor2.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/ConjuntoBaguncado.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/ConjuntoComportado.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/Map1.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/Map2.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/HashcodeEquals.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/ArrayListInt.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/ArrayListMix.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/ArrayListObjetos.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/ArrayListStrings.kt" />
+    <entry file="file://$PROJECT_DIR$/src/collections/Matriz.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/polimorfismo/ComPolimorfismo.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/polimorfismo/SemPolimorfismo.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/heranca/Heranca2.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/heranca/Teste.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/heranca/Ferrari.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/heranca/Esportivo.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/heranca/Carro.kt" />
+    <entry file="file://$PROJECT_DIR$/src/oo/encapsulamento/Encapsulamento.kt" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/AnotacaoComReflexao.kt" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SobrecargaDeOperadores.kt" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/Genericos.kt" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/Recursao.kt" />
+    <entry file="file://$PROJECT_DIR$/src/lambdas/Apply.kt" />
+    <entry file="file://$PROJECT_DIR$/src/classes/BlocoInit.kt" />
+    <entry file="file://$PROJECT_DIR$/src/classes/ClasseBasica1.kt" />
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/ConstJava.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/Const.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/TiposBasicos.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/TemplateString1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/TemplateString2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/NotacaoPonto.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/ChamadaSegura.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/OperadorElvis.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/CuidadoInferencia1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/CuidadoInferencia2.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/ForcandoExcecaoNullPointer.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/PrimeiroPrograma.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/TesteImport.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#21#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/pacoteB/Matematica.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/pacoteA/Mistura.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>CursoKotlin:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CursoKotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
